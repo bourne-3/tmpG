@@ -1,4 +1,5 @@
-1 2 dev hello, world! Git;
+
+resolv the conflict line;
 hello, world! Git;
 hello, world! Git;
 hello, world! Git;
