@@ -1,4 +1,4 @@
-1 dev hello, world! Git;
+1 dev and  hello, world! Git;
 hello, world! Git;
 hello, world! Git;
 hello, world! Git;
